@@ -1,0 +1,2 @@
+# Smart-Waterlevel-Indicator
+Nowadays every home has overhead tank. To avoid overflow of water I constructed a device to display the water level in the tank and to control the motor, which makes the process automatic, I used ATmega328P as a microcontroller for this project and ultrasonic sensor for measuring distance of the water and LCD for displaying the water level.  OBJECTVES: To build a cheap and user-friendly Water Level Monitor Kit for automate the process and also send a message to our phone when the water level is Low. 
